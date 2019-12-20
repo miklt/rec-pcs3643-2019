@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<!--Rational Software Architect Designer 9.7.0-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<umlnotation:UMLDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_rMDUcCKoEeqp6cHdItYRwg" type="Class" name="classdiagram.dnx">
+  <eAnnotations xmi:id="_rMDUcSKoEeqp6cHdItYRwg" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_rMDUciKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBStateMachine2" value="1"/>
+    <details xmi:id="_rMDUcyKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBSpecificInstanceType2" value="1"/>
+    <details xmi:id="_rMDUdCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBStateMachine1" value="1"/>
+    <details xmi:id="_rMDUdSKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBSpecificInstanceType1" value="1"/>
+    <details xmi:id="_rMDUdiKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBPackageTemplateParameter" value="1"/>
+    <details xmi:id="_rMDUdyKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBTemplate" value="1"/>
+    <details xmi:id="_rMDUeCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBEvent2" value="1"/>
+    <details xmi:id="_rMDUeSKoEeqp6cHdItYRwg" key="com.ibm.xtools.transform.uml2.jpa.ui.uireduction.activity" value="1"/>
+    <details xmi:id="_rMDUeiKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBEvent1" value="1"/>
+    <details xmi:id="_rMDUeyKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBRelationship3" value="1"/>
+    <details xmi:id="_rMDUfCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBInterfaceTemplateParameter" value="1"/>
+    <details xmi:id="_rMDUfSKoEeqp6cHdItYRwg" key="com.ibm.xtools.modeling.enterprise.services.uireduction.activity" value="1"/>
+    <details xmi:id="_rMDUfiKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBRelationship1" value="1"/>
+    <details xmi:id="_rMDUfyKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBRelationship2" value="1"/>
+    <details xmi:id="_rMD7gCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.EJB3JPAVisualizerActivity" value="1"/>
+    <details xmi:id="_rMD7gSKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBInformationFlow" value="1"/>
+    <details xmi:id="_rMD7giKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBCommunicationDiagram" value="1"/>
+    <details xmi:id="_rMD7gyKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBActivity1" value="1"/>
+    <details xmi:id="_rMD7hCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBComponentTemplateParameter" value="1"/>
+    <details xmi:id="_rMD7hSKoEeqp6cHdItYRwg" key="com.ibm.xtools.modeling.soa.ml.uireduction.activity" value="1"/>
+    <details xmi:id="_rMD7hiKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBActivity2" value="1"/>
+    <details xmi:id="_rMD7hyKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBCompositeStructure1" value="1"/>
+    <details xmi:id="_rMD7iCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBDeploymentDiagram" value="1"/>
+    <details xmi:id="_rMD7iSKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBActivity3" value="1"/>
+    <details xmi:id="_rMD7iiKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBCompositeStructure2" value="1"/>
+    <details xmi:id="_rMD7iyKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBSubsystem" value="1"/>
+    <details xmi:id="_rMD7jCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBActivity4" value="1"/>
+    <details xmi:id="_rMD7jSKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBFragment" value="1"/>
+    <details xmi:id="_rMD7jiKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBInteraction" value="1"/>
+    <details xmi:id="_rMD7jyKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBInterface" value="1"/>
+    <details xmi:id="_rMD7kCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBClassDiagram" value="1"/>
+    <details xmi:id="_rMD7kSKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBFreeFormDiagram" value="1"/>
+    <details xmi:id="_rMD7kiKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBCommunication" value="1"/>
+    <details xmi:id="_rMD7kyKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBStateChartDiagram" value="1"/>
+    <details xmi:id="_rMD7lCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBStereotypedComponent" value="1"/>
+    <details xmi:id="_rMD7lSKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBDependancy" value="1"/>
+    <details xmi:id="_rMD7liKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.EJBVisualizerActivity" value="1"/>
+    <details xmi:id="_rMD7lyKoEeqp6cHdItYRwg" key="com.ibm.xtools.viz.webservice.capabilty" value="1"/>
+    <details xmi:id="_rMD7mCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBPackage" value="1"/>
+    <details xmi:id="_rMD7mSKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBStereotypedArtifact" value="1"/>
+    <details xmi:id="_rMD7miKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBClass" value="1"/>
+    <details xmi:id="_rMD7myKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBRealization" value="1"/>
+    <details xmi:id="_rMD7nCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBFunction" value="1"/>
+    <details xmi:id="_rMD7nSKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBComponentDiagram" value="1"/>
+    <details xmi:id="_rMD7niKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBComponent" value="1"/>
+    <details xmi:id="_rMD7nyKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBTypes1" value="1"/>
+    <details xmi:id="_rMD7oCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBAction" value="1"/>
+    <details xmi:id="_rMD7oSKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBArtifact" value="1"/>
+    <details xmi:id="_rMD7oiKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBSequence1" value="1"/>
+    <details xmi:id="_rMD7oyKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBStructureDiagram" value="1"/>
+    <details xmi:id="_rMD7pCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBSequence2" value="1"/>
+    <details xmi:id="_rMD7pSKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBClassTemplateParameter" value="1"/>
+    <details xmi:id="_rMD7piKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBDeployment1" value="1"/>
+    <details xmi:id="_rMD7pyKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBDeployment2" value="1"/>
+    <details xmi:id="_rMD7qCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBCollaboration" value="1"/>
+    <details xmi:id="_rMEikCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBAbstractionRelation" value="1"/>
+    <details xmi:id="_rMEikSKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBElementImport2" value="1"/>
+    <details xmi:id="_rMEikiKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBUsage" value="1"/>
+    <details xmi:id="_rMEikyKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBSequenceDiagram" value="1"/>
+    <details xmi:id="_rMEilCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBInstance" value="1"/>
+    <details xmi:id="_rMEilSKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBTypes4" value="1"/>
+    <details xmi:id="_rMEiliKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBCollaborationUse" value="1"/>
+    <details xmi:id="_rMEilyKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBElementImport1" value="1"/>
+    <details xmi:id="_rMEimCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBProfile" value="1"/>
+    <details xmi:id="_rMEimSKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBTypes3" value="1"/>
+    <details xmi:id="_rMEimiKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBTypes2" value="1"/>
+    <details xmi:id="_rMEimyKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBObjectDiagram" value="1"/>
+    <details xmi:id="_rMEinCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBInteractionOverviewDiagram" value="1"/>
+    <details xmi:id="_rMEinSKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBProfileApplication" value="1"/>
+    <details xmi:id="_rMEiniKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBStereotypedClass" value="1"/>
+    <details xmi:id="_rMEinyKoEeqp6cHdItYRwg" key="com.ibm.xtools.viz.java.webservice.capability" value="1"/>
+    <details xmi:id="_rMEioCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBPrimitiveTypeTemplateParameter" value="1"/>
+    <details xmi:id="_rMEioSKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.EJB3VisualizerActivity" value="1"/>
+    <details xmi:id="_rMEioiKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBTiming" value="1"/>
+    <details xmi:id="_rMEioyKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBLifeLine" value="1"/>
+    <details xmi:id="_rMEipCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBFunctionTemplateParameter" value="1"/>
+    <details xmi:id="_rMEipSKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBUseCaseDiagram" value="1"/>
+    <details xmi:id="_rMEipiKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBSignal" value="1"/>
+    <details xmi:id="_rMEipyKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBStereotypedDeployment1" value="1"/>
+    <details xmi:id="_rMEiqCKoEeqp6cHdItYRwg" key="com.ibm.xtools.rest.ui.uireduction.activity" value="1"/>
+    <details xmi:id="_rMEiqSKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBTimingDiagram" value="1"/>
+    <details xmi:id="_rMEiqiKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+    <details xmi:id="_rMEiqyKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBConstraint" value="1"/>
+    <details xmi:id="_rMEirCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBComment2" value="1"/>
+    <details xmi:id="_rMEirSKoEeqp6cHdItYRwg" key="com.ibm.xtools.jaxrs.ui.uireduction.activity" value="1"/>
+    <details xmi:id="_rMEiriKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBComment3" value="1"/>
+    <details xmi:id="_rMEiryKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBUseCase1" value="1"/>
+    <details xmi:id="_rMEisCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBInteractionOverview" value="1"/>
+    <details xmi:id="_rMEisSKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBUseCase2" value="1"/>
+    <details xmi:id="_rMEisiKoEeqp6cHdItYRwg" key="com.ibm.xtools.http.activity.id" value="1"/>
+    <details xmi:id="_rMEisyKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBActivityDiagram" value="1"/>
+    <details xmi:id="_rMEitCKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBComment1" value="1"/>
+    <details xmi:id="_rMEitSKoEeqp6cHdItYRwg" key="com.ibm.xtools.activities.umlBBDeploymentSpecification" value="1"/>
+  </eAnnotations>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_ufgCMCKoEeqp6cHdItYRwg" fontName="Segoe UI" bold="true" transparency="0" lineColor="0" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_ufhQUCKoEeqp6cHdItYRwg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_ufhQUSKoEeqp6cHdItYRwg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_ufiecCKoEeqp6cHdItYRwg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_ufjskCKoEeqp6cHdItYRwg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_ufkToCKoEeqp6cHdItYRwg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_uftdkCKoEeqp6cHdItYRwg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_ufxvACKoEeqp6cHdItYRwg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_ufxvASKoEeqp6cHdItYRwg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ProdutoDAO%5Bjcu%5Ename=ProdutoDAO.java%5Bjpack%5Ename=rec.dao%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ufgCMSKoEeqp6cHdItYRwg" x="21120" y="8580" width="10789"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_zHuxkCKoEeqp6cHdItYRwg" fontName="Segoe UI" bold="true" transparency="0" lineColor="0" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_zHuxkiKoEeqp6cHdItYRwg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_zHuxkyKoEeqp6cHdItYRwg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_zHvYoCKoEeqp6cHdItYRwg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_zHvYoSKoEeqp6cHdItYRwg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_zHvYoiKoEeqp6cHdItYRwg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_zHv_sCKoEeqp6cHdItYRwg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_zHxN0CKoEeqp6cHdItYRwg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_zHxN0SKoEeqp6cHdItYRwg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=VendaDAO%5Bjcu%5Ename=VendaDAO.java%5Bjpack%5Ename=rec.dao%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zHuxkSKoEeqp6cHdItYRwg" x="20328" y="3300" width="11452"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_0-jJQCKoEeqp6cHdItYRwg" fontName="Segoe UI" bold="true" transparency="0" lineColor="0" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_0-jwUCKoEeqp6cHdItYRwg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_0-jwUSKoEeqp6cHdItYRwg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_0-jwUiKoEeqp6cHdItYRwg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_0-jwUyKoEeqp6cHdItYRwg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_0-jwVCKoEeqp6cHdItYRwg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_0-jwVSKoEeqp6cHdItYRwg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_0-k-cCKoEeqp6cHdItYRwg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_0-k-cSKoEeqp6cHdItYRwg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Produto%5Bjcu%5Ename=Produto.java%5Bjpack%5Ename=rec.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0-jJQSKoEeqp6cHdItYRwg" x="11220" y="10164" width="8937"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_1jqogCKoEeqp6cHdItYRwg" fontName="Segoe UI" bold="true" transparency="0" lineColor="0" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_1jrPkCKoEeqp6cHdItYRwg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_1jrPkSKoEeqp6cHdItYRwg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_1jrPkiKoEeqp6cHdItYRwg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_1jrPkyKoEeqp6cHdItYRwg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_1jrPlCKoEeqp6cHdItYRwg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_1jrPlSKoEeqp6cHdItYRwg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_1jsdsCKoEeqp6cHdItYRwg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_1jsdsSKoEeqp6cHdItYRwg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Venda%5Bjcu%5Ename=Venda.java%5Bjpack%5Ename=rec.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1jqogSKoEeqp6cHdItYRwg" x="12144" y="1452" width="6953"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_2h5LUCKoEeqp6cHdItYRwg" fontName="Segoe UI" bold="true" transparency="0" lineColor="0" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_2h5LUiKoEeqp6cHdItYRwg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_2h5LUyKoEeqp6cHdItYRwg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_2h5yYCKoEeqp6cHdItYRwg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_2h5yYSKoEeqp6cHdItYRwg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_2h5yYiKoEeqp6cHdItYRwg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_2h5yYyKoEeqp6cHdItYRwg" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_2kU0QCKoEeqp6cHdItYRwg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_2kVbUCKoEeqp6cHdItYRwg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ProdutoServlet%5Bjcu%5Ename=ProdutoServlet.java%5Bjpack%5Ename=rec.web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2h5LUSKoEeqp6cHdItYRwg" x="1848" y="12408" width="8118"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_3K324CKoEeqp6cHdItYRwg" fontName="Segoe UI" bold="true" transparency="0" lineColor="0" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_3K324iKoEeqp6cHdItYRwg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_3K324yKoEeqp6cHdItYRwg" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_3K4d8CKoEeqp6cHdItYRwg" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_3K4d8SKoEeqp6cHdItYRwg" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_3K4d8iKoEeqp6cHdItYRwg" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_3K4d8yKoEeqp6cHdItYRwg" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_3K-kkSKoEeqp6cHdItYRwg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_3K-kkiKoEeqp6cHdItYRwg" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=VendaServlet%5Bjcu%5Ename=VendaServlet.java%5Bjpack%5Ename=rec.web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3K324SKoEeqp6cHdItYRwg" x="1848" y="4884" width="8143"/>
+  </children>
+  <element xsi:nil="true"/>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_zLVfMCKoEeqp6cHdItYRwg" source="_zHuxkCKoEeqp6cHdItYRwg" target="_ufgCMCKoEeqp6cHdItYRwg" fontName="Segoe UI" bold="true" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="0" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_zLeCECKoEeqp6cHdItYRwg" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_zLeCEiKoEeqp6cHdItYRwg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_zLfQMCKoEeqp6cHdItYRwg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_zLeCEyKoEeqp6cHdItYRwg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zLeCESKoEeqp6cHdItYRwg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=VendaDAO%5Bjcu%5Ename=VendaDAO.java%5Bjpack%5Ename=rec.dao%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ProdutoDAO%5Bjcu%5Ename=ProdutoDAO.java%5Bjpack%5Ename=rec.dao%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zLWGQCKoEeqp6cHdItYRwg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_1B278CKoEeqp6cHdItYRwg" source="_ufgCMCKoEeqp6cHdItYRwg" target="_0-jJQCKoEeqp6cHdItYRwg" fontName="Segoe UI" bold="true" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="0" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_1B3jACKoEeqp6cHdItYRwg" visible="false" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_1B4KECKoEeqp6cHdItYRwg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_1B4xICKoEeqp6cHdItYRwg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_1B4KESKoEeqp6cHdItYRwg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1B3jASKoEeqp6cHdItYRwg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=ProdutoDAO%5Bjcu%5Ename=ProdutoDAO.java%5Bjpack%5Ename=rec.dao%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Produto%5Bjcu%5Ename=Produto.java%5Bjpack%5Ename=rec.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_1B278SKoEeqp6cHdItYRwg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_1B4xISKoEeqp6cHdItYRwg" source="_zHuxkCKoEeqp6cHdItYRwg" target="_0-jJQCKoEeqp6cHdItYRwg" fontName="Segoe UI" bold="true" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="0" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_1B5_QCKoEeqp6cHdItYRwg" visible="false" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_1B5_QiKoEeqp6cHdItYRwg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_1B6mUSKoEeqp6cHdItYRwg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_1B6mUCKoEeqp6cHdItYRwg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1B5_QSKoEeqp6cHdItYRwg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=VendaDAO%5Bjcu%5Ename=VendaDAO.java%5Bjpack%5Ename=rec.dao%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Produto%5Bjcu%5Ename=Produto.java%5Bjpack%5Ename=rec.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_1B4xIiKoEeqp6cHdItYRwg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_1my1ACKoEeqp6cHdItYRwg" source="_zHuxkCKoEeqp6cHdItYRwg" target="_1jqogCKoEeqp6cHdItYRwg" fontName="Segoe UI" bold="true" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="0" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_1m0DICKoEeqp6cHdItYRwg" visible="false" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_1m0DIiKoEeqp6cHdItYRwg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_1m0qMSKoEeqp6cHdItYRwg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_1m0qMCKoEeqp6cHdItYRwg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1m0DISKoEeqp6cHdItYRwg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=VendaDAO%5Bjcu%5Ename=VendaDAO.java%5Bjpack%5Ename=rec.dao%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Venda%5Bjcu%5Ename=Venda.java%5Bjpack%5Ename=rec.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_1my1ASKoEeqp6cHdItYRwg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_1m1RQCKoEeqp6cHdItYRwg" source="_1jqogCKoEeqp6cHdItYRwg" target="_0-jJQCKoEeqp6cHdItYRwg" fontName="Segoe UI" bold="true" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="0" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_1m14UCKoEeqp6cHdItYRwg" visible="false" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_1m2fYCKoEeqp6cHdItYRwg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_1m2fYiKoEeqp6cHdItYRwg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_1m2fYSKoEeqp6cHdItYRwg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1m14USKoEeqp6cHdItYRwg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Venda%5Bjcu%5Ename=Venda.java%5Bjpack%5Ename=rec.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Produto%5Bjcu%5Ename=Produto.java%5Bjpack%5Ename=rec.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_1m1RQSKoEeqp6cHdItYRwg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_2qMLsCKoEeqp6cHdItYRwg" source="_2h5LUCKoEeqp6cHdItYRwg" target="_ufgCMCKoEeqp6cHdItYRwg" fontName="Segoe UI" fontHeight="10" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="0" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_2qNZ0CKoEeqp6cHdItYRwg" visible="false" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_2qNZ0iKoEeqp6cHdItYRwg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_2qOA4CKoEeqp6cHdItYRwg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_2qNZ0yKoEeqp6cHdItYRwg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2qNZ0SKoEeqp6cHdItYRwg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=ProdutoServlet%5Bjcu%5Ename=ProdutoServlet.java%5Bjpack%5Ename=rec.web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ProdutoDAO%5Bjcu%5Ename=ProdutoDAO.java%5Bjpack%5Ename=rec.dao%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2qMLsSKoEeqp6cHdItYRwg" points="[40, 1981, -19053, 3952]$[40, 3020, -19053, 4991]$[19132, 3020, 39, 4991]$[19132, 1868, 39, 3839]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_2qOn8CKoEeqp6cHdItYRwg" source="_2h5LUCKoEeqp6cHdItYRwg" target="_0-jJQCKoEeqp6cHdItYRwg" fontName="Segoe UI" bold="true" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="0" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_2qPPACKoEeqp6cHdItYRwg" visible="false" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_2qP2ECKoEeqp6cHdItYRwg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_2qP2EiKoEeqp6cHdItYRwg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_2qP2ESKoEeqp6cHdItYRwg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2qPPASKoEeqp6cHdItYRwg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=ProdutoServlet%5Bjcu%5Ename=ProdutoServlet.java%5Bjpack%5Ename=rec.web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Produto%5Bjcu%5Ename=Produto.java%5Bjpack%5Ename=rec.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2qOn8SKoEeqp6cHdItYRwg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_3OQiECKoEeqp6cHdItYRwg" source="_3K324CKoEeqp6cHdItYRwg" target="_zHuxkCKoEeqp6cHdItYRwg" fontName="Segoe UI" bold="true" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="0" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_3ORwMCKoEeqp6cHdItYRwg" visible="false" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_3ORwMiKoEeqp6cHdItYRwg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_3OSXQCKoEeqp6cHdItYRwg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_3ORwMyKoEeqp6cHdItYRwg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3ORwMSKoEeqp6cHdItYRwg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=VendaServlet%5Bjcu%5Ename=VendaServlet.java%5Bjpack%5Ename=rec.web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=VendaDAO%5Bjcu%5Ename=VendaDAO.java%5Bjpack%5Ename=rec.dao%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_3OQiESKoEeqp6cHdItYRwg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_3OSXQSKoEeqp6cHdItYRwg" source="_3K324CKoEeqp6cHdItYRwg" target="_ufgCMCKoEeqp6cHdItYRwg" fontName="Segoe UI" bold="true" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="0" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_3OTlYCKoEeqp6cHdItYRwg" visible="false" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_3OTlYiKoEeqp6cHdItYRwg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_3OUMcCKoEeqp6cHdItYRwg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_3OTlYyKoEeqp6cHdItYRwg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3OTlYSKoEeqp6cHdItYRwg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=VendaServlet%5Bjcu%5Ename=VendaServlet.java%5Bjpack%5Ename=rec.web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ProdutoDAO%5Bjcu%5Ename=ProdutoDAO.java%5Bjpack%5Ename=rec.dao%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_3OSXQiKoEeqp6cHdItYRwg" points="[2499, 2052, -16198, -3317]$[13342, 2052, -5355, -3317]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_3OUMcSKoEeqp6cHdItYRwg" source="_3K324CKoEeqp6cHdItYRwg" target="_1jqogCKoEeqp6cHdItYRwg" fontName="Segoe UI" bold="true" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="0" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_3OVakCKoEeqp6cHdItYRwg" visible="false" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_3OVakiKoEeqp6cHdItYRwg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_3OWBoCKoEeqp6cHdItYRwg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_3OVakyKoEeqp6cHdItYRwg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3OVakSKoEeqp6cHdItYRwg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=VendaServlet%5Bjcu%5Ename=VendaServlet.java%5Bjpack%5Ename=rec.web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Venda%5Bjcu%5Ename=Venda.java%5Bjpack%5Ename=rec.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_3OUMciKoEeqp6cHdItYRwg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_3OWBoSKoEeqp6cHdItYRwg" source="_3K324CKoEeqp6cHdItYRwg" target="_0-jJQCKoEeqp6cHdItYRwg" fontName="Segoe UI" bold="true" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="0" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_3OXPwCKoEeqp6cHdItYRwg" visible="false" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_3OXPwiKoEeqp6cHdItYRwg" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_3OX20CKoEeqp6cHdItYRwg" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_3OXPwyKoEeqp6cHdItYRwg" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3OXPwSKoEeqp6cHdItYRwg" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=VendaServlet%5Bjcu%5Ename=VendaServlet.java%5Bjpack%5Ename=rec.web%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Produto%5Bjcu%5Ename=Produto.java%5Bjpack%5Ename=rec.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=rec1%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_3OWBoiKoEeqp6cHdItYRwg" points="[40, 2851, -9149, -3695]$[40, 3218, -9149, -3328]$[4760, 3218, -4429, -3328]"/>
+  </edges>
+</umlnotation:UMLDiagram>
