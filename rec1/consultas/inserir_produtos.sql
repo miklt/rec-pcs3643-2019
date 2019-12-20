@@ -1,0 +1,10 @@
+insert into produtos  set nome = 'produto_1', quantidade=100;
+insert into produtos  set nome = 'produto_2', quantidade=100;
+insert into produtos  set nome = 'produto_3', quantidade=100;
+insert into produtos  set nome = 'produto_4', quantidade=100;
+insert into produtos  set nome = 'produto_5', quantidade=100;
+insert into produtos  set nome = 'produto_6', quantidade=100;
+insert into produtos  set nome = 'produto_7', quantidade=100;
+insert into produtos  set nome = 'produto_8', quantidade=100;
+insert into produtos  set nome = 'produto_9', quantidade=100;
+insert into produtos  set nome = 'produto_10', quantidade=100;

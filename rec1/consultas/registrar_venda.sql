@@ -1,0 +1,1 @@
+insert into vendas set id_produto = 1 , quantidade=1;

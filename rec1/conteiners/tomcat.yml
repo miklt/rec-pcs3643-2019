@@ -1,0 +1,17 @@
+version: '2'
+
+services:
+  tomcat:
+    image: 'bitnami/tomcat:9.0'
+    environment:
+        - TOMCAT_USERNAME=admin
+        - TOMCAT_PASSWORD=matilda
+        - TOMCAT_ALLOW_REMOTE_MANAGEMENT=1
+    ports:
+      - '8080:8080'
+    volumes:
+      - 'tomcat_data:/bitnami'
+
+volumes:
+  tomcat_data:
+    driver: local

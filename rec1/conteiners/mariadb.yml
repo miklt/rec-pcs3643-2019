@@ -1,0 +1,16 @@
+version: '3.1'
+
+services:
+
+  db:
+    image: mariadb
+    ports:
+      - "3306:3306"
+    environment:
+      - MYSQL_ROOT_PASSWORD=labsoft-2019
+      - MYSQL_USER=professor
+      - MYSQL_PASSWORD=pcs-2019
+    restart: always
+    volumes:
+      - ./data:/var/lib/mysql
+      - ./config.sql:/docker-entrypoint-initdb.d/config.sql      
